@@ -1,0 +1,8 @@
+.circ{
+    width: 1px;
+    border-top: solid 100px transparent;
+    border-bottom: solid 100px transparent;
+    border-right: solid 100px transparent;
+    border-left: solid 100px green;
+    
+}
